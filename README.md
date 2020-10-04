@@ -8,7 +8,7 @@ The main goal of the **Project** is to have a camera placed wherever you want an
 
 All the cars will be sorted in a decreased order. An indicator on top of them will show the relative speed. 
 
-The indicator be a small dot in the middle of the car. From `red`, which will be the highest to `green` that will be the slowest of them.
+The indicator will be a small dot in the middle of the car. From `red`, which will be the highest to `green` that will be the slowest of them.
 
 **- Without knowing the distance of the camera placement.**
 
@@ -30,7 +30,7 @@ The indicator be a small dot in the middle of the car. From `red`, which will be
 
 At this state of the Project you can see the different level of speed of every car. You can also have some different settings. Those are:
 
-1. In particular you can have a prerecorded video or you can test it real-time.
+1. You can have a prerecorded video or you can test it real-time.
 2. You can draw the path of each car.
 3. You can save the edited video on the same folder.
 
