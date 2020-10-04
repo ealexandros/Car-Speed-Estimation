@@ -10,7 +10,7 @@ All the cars will be sorted in a decreased order. An indicator on top of them wi
 
 The indicator be a small dot in the middle of the car. From `red`, which will be the highest to `green` that will be the slowest of them.
 
-**- Without knowing the distance if the camera placement.**
+**- Without knowing the distance of the camera placement.**
 
 ## ToDo-List
 
