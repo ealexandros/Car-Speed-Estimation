@@ -1,0 +1,7 @@
+In order to use this model you need to visit the yolo website. 
+Dowload the yolov3 version and place the files inside this folder.
+
+The files that you need to download are:
+
+1. yolov3.cfg
+2. yolov3.weights

@@ -1,0 +1,6 @@
+samples/*.mp4
+src/__pycache__/
+yolo_versions/*.cfg
+yolo_versions/*.weights
+coco.names
+estimate_speed.py
